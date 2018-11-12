@@ -1,7 +1,6 @@
 #!/bin/sh
-# Deploys a simple Apache webpage with kittens as a service.
+# Deploys a simple Apache webpage
 
-# cd /tmp
 apt-get -y update > /dev/null 2>&1
 apt install -y apache2 > /dev/null 2>&1
 
