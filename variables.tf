@@ -17,12 +17,12 @@ variable "prefix" {
 
 variable "hostname" {
   description = "Virtual machine hostname. Used for local hostname, DNS, and storage-related names."
-  default     = "catapp"
+  default     = "carapp"
 }
 
 variable "location" {
   description = "The region where the virtual network is created."
-  default     = "centralus"
+  default     = "ukwest"
 }
 
 variable "virtual_network_name" {
