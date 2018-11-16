@@ -6,9 +6,8 @@ apt install -y apache2 > /dev/null 2>&1
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>RRAAS</title></head>
-  <center><img src="https://configure-12.rolls-roycemotorcars.com/html5/assets/images/model-selection/RR_Model_Selector_Ghost_SWB_Light.jpg"></img></center>
-  <marquee><h1>RRAAS!</h1></marquee>
+  <head><title>F1</title></head>
+  <center><img src="https://www.formulapassion.it/wp-content/uploads/2017/11/Photo4_s.r.l._909875.jpg"></img></center>
   </body>
 </html>
 EOM
