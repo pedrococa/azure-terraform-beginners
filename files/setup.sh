@@ -7,7 +7,7 @@ apt install -y apache2 > /dev/null 2>&1
 cat << EOM > /var/www/html/index.html
 <html>
   <head><title>F1</title></head>
-  <center><img src="https://www.formulapassion.it/wp-content/uploads/2017/11/Photo4_s.r.l._909875.jpg"></img></center>
+  <center><img src="https://photoshop-kopona.com/uploads/posts/2018-04/1523011860_ferrari-1.jpg"></img></center>
   </body>
 </html>
 EOM
