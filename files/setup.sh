@@ -6,8 +6,8 @@ apt install -y apache2 > /dev/null 2>&1
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>F1</title></head>
-  <center><img src="https://photoshop-kopona.com/uploads/posts/2018-04/1523011860_ferrari-1.jpg"></img></center>
+  <head><title>World Map... as a service</title></head>
+  <center><img src="https://cdn.desenio.co.uk/bilder/artiklar/zoom/8118_1.jpg"></img></center>
   </body>
 </html>
 EOM
