@@ -7,7 +7,7 @@ apt install -y apache2 > /dev/null 2>&1
 cat << EOM > /var/www/html/index.html
 <html>
   <head><title>World Map... as a service</title></head>
-  <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Floppy_disk_300_dpi.jpg/571px-Floppy_disk_300_dpi.jpg"></img></center>
+  <center><img src="https://images-na.ssl-images-amazon.com/images/I/91%2Bl%2B4-P7jL._SX355_.jpg"></img></center>
   </body>
 </html>
 EOM
