@@ -11,5 +11,3 @@ cat << EOM > /var/www/html/index.html
   </body>
 </html>
 EOM
-
-echo "Your demo is now ready."
