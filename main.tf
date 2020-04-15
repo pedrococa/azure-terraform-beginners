@@ -1,6 +1,5 @@
 provider "azurerm" {
   version = "=1.44.0"
-  features {}
 }
 ##############################################################################
 # * HashiCorp Beginner's Guide to Using Terraform on Azure
